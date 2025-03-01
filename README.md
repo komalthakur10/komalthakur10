@@ -4,8 +4,6 @@
 
 - 🔭 I’m currently working on **MERN Stack**
 
-- 🌱 I’m currently learning **React native**
-
 - 👯 I’m looking to collaborate on **any project**
 
 <h3 align="left">Connect with me:</h3>
